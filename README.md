@@ -30,7 +30,7 @@ This project demonstrates a simple Python application for interacting with a Pos
 2. Install the required dependencies:
 
    ```bash
-   pip install psycopg2
+   pip install psycopg2.binary
    ```
 
 3. Set up the PostgreSQL database:
