@@ -113,9 +113,9 @@ class Database:
 
 
 db = Database(
-    db_name="users",
-    db_user="postgres",
-    db_password="0000",
+    db_name="your_db_name",
+    db_user="your_db_user",
+    db_password="your_db_password",
     db_host="localhost",
     db_port=5432,
 )
