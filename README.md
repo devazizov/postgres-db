@@ -23,7 +23,7 @@ This project demonstrates a simple Python application for interacting with a Pos
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/devazizov/postgres-db.git
    cd your-repository
    ```
 
