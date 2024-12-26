@@ -24,7 +24,7 @@ This project demonstrates a simple Python application for interacting with a Pos
 
    ```bash
    git clone https://github.com/devazizov/postgres-db.git
-   cd your-repository
+   cd postgres-db
    ```
 
 2. Install the required dependencies:
