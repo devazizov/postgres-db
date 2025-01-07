@@ -138,4 +138,4 @@ print("All Users After Deletion:", users)
 ## Author
 
 This project was developed by Azizov Azizbek.  
-You can contact me via email at azizoov.uz@gmail.com, check out my GitHub profile: [GitHub](https://github.com/devazizov), or visit my website: [Your Website](https://azizov.dev).
+You can contact me via email at azizoov.uz@gmail.com, check out my GitHub profile: [GitHub](https://github.com/devazizov), or visit: [My Website](https://azizov.dev).
